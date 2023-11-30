@@ -151,3 +151,13 @@ http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/ch
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
 http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+PSSH: AAAAW3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADsIARIQHin9IMK/SRiaxF3rf4k9jhoIV2lkZXZpbmUiFTMwMV80MDI0XzIwMjIwMjAyMTg1N0jj3JWbBg==
+
+Stream Url(s): 
+https://dsh-m005.p-cdnlive-edge020309-dual.scy.canalplus-cdn.net/__token__exp%3D1701376116~acl%3D%2Flive%2Fdisk%2Ffrance3-hd%2F*~id%3D8261dd05-4270-4633-8142-e6efdb7adc24~hmac%3D263305b3182ae9fda787c81a07cfa3a16bcffc98409dcbfe761941029d92760e/live/disk/france3-hd/dash-fhddvr/france3-hd.mpd
+https://dsh-m011.p-cdnlive-edge020204-dual.scy.canalplus-cdn.net/__token__exp%3D1701376315~acl%3D%2Flive%2Fdisk%2Fcanalplus-hd%2F*~id%3D2165c29b-1081-43dc-96dc-b8ee4feb1a3b~hmac%3D5b10cab3d14b87127a1319bab3800dfa0c557b30af5debf2f124ce0a435963f4/live/disk/canalplus-hd/dash-fhddvr/canalplus-hd.mpd
+
+Decryption Keys:
+1e29fd20c2bf49189ac45deb7f893d8e:0108a366810bce514d59ac5516212985
+ae9172e5f6224f8aae81ade1d0db3370:c8c1d589226521298eff28f7ee62b4db
+7fd57b8773a942e3a78f697e83ae62eb:666bc223a9bebb551c69930c9feee90d
